@@ -58,19 +58,19 @@ export const content = {
     },
   ],
   hero: {
-    title: "Web Developer",
-    firstName: "JOHN",
-    LastName: "ALEX",
+    title: "Software Engineer",
+    firstName: "Almustapha",
+    LastName: "WAKILI",
     btnText: "Hire Me",
     image: Hero_person,
     hero_content: [
       {
         count: "8+",
-        text: "Years of Experinse in Web development",
+        text: "Years of Experinse in Software Engineering",
       },
       {
-        count: "20+",
-        text: "Projects Worked in my career",
+        count: "50+",
+        text: "Projects Worked in my career Web/Mobile",
       },
     ],
   },
@@ -79,33 +79,33 @@ export const content = {
     subtitle: "MY TOP SKILLS",
     skills_content: [
       {
-        name: "Figma",
-        para: "Lorem ipsum text  dummy",
+        name: "Android Java/Kotlin",
+        para: "Have 5+ years experience in Android Application Development",
         logo: figma,
       },
       {
-        name: "Node js",
-        para: "Lorem ipsum text  dummy",
+        name: "Google Cloud & Firebas",
+        para: "Uses google could services and Firebase",
         logo: nodejs,
       },
       {
-        name: "Adobe Photoshop",
-        para: "Lorem ipsum text  dummy",
+        name: "Web 3.0 Solidity/RustLang",
+        para: "Have 2 years experience in Blokchain Development using Rust and Solidity ",
         logo: ps,
       },
       {
         name: "React js",
-        para: "Lorem ipsum text  dummy",
+        para: "Have Solid Experience in FrontEnd Dev with React Js",
         logo: reactjs,
       },
       {
-        name: "Sketch",
-        para: "Lorem ipsum text  dummy",
+        name: "Php /Mysql",
+        para: "I was a Php dev. i uses php in my early tech career",
         logo: sketch,
       },
       {
-        name: "Python",
-        para: "Lorem ipsum text  dummy",
+        name: "ML Models with Python",
+        para: "I have a good experience in Building ML Models with Python",
         logo: python,
       },
     ],
@@ -116,18 +116,18 @@ export const content = {
     subtitle: "WHAT I OFFER",
     service_content: [
       {
-        title: "Web Development",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        title: "ANDROID APPS DEVELOPMENT",
+        para: " Have 5 years + experience in Android Application Development and Uses google could services and Firebase to build scalable applications ",
         logo: services_logo1,
       },
       {
-        title: "ui / ux DESIGNING",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        title: "BLOKCHAIN DAPP DEVELOPMENT",
+        para: "Have 2 years experience in Blokchain Development using Rust and Solidity ",
         logo: services_logo2,
       },
       {
-        title: "PhotoShop Editing",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        title: "TECH INSTRUCTOR",
+        para: "I am a Lecturer in a University, i teches Computer Science paractical related courses",
         logo: services_logo3,
       },
     ],
@@ -186,7 +186,7 @@ export const content = {
     subtitle: "FOR YOUR PROJECTS",
     image1: Hireme_person,
     image2: Hireme_person2,
-    para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+    para: "Hire me for your software engineering projects as a Developer or a full stack engineeer, i can manage and facilitate your tech team or in training your tech team",
     btnText: "Hire Me",
   },
   Contact: {
@@ -194,23 +194,24 @@ export const content = {
     subtitle: "GET IN TOUCH",
     social_media: [
       {
-        text: "codeaprogram@gmail.com",
+        text: "wakili@jsiit.edu.ng",
         icon: GrMail,
-        link: "mailto:codeaprogram@gmail.com",
+        link: "mailto:almustaphawakili@gmail.com",
       },
       {
-        text: "+91 1234 56778",
+        text: "+234 8165 869402",
         icon: MdCall,
-        link: "https://wa.me/1234567890",
+        link: "https://wa.me/+2348165869402",
       },
       {
-        text: "codeaprogram",
+        text: "binwakili",
         icon: BsInstagram,
-        link: "https://www.instagram.com/codeaprogram/",
+        link: "https://www.twitter.com/binwakili/",
       },
     ],
   },
   Footer: {
-    text: "All © Copy Right Reserved 2022",
+    text: "Binwakili © Copy Right Reserved 2022",
   },
 };
+
