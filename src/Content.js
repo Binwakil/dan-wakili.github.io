@@ -149,13 +149,16 @@ export const content = {
         title: "Creative Website",
         image: project3,
       },
+    ],
+  },
+  Testimonials: {
+    title: "Testimonials",
+    subtitle: "MY CLIENT REVIEWS",
+    testimonials_content: [
       {
-        title: "Creative Website",
-        image: project1,
-      },
-      {
-        title: "Creative Website",
-        image: project2,
+        review:
+          "“In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstra”",
+        img: avatar1,
         name: "JOHN DOE",
       },
       {
@@ -183,7 +186,7 @@ export const content = {
     subtitle: "FOR YOUR PROJECTS",
     image1: Hireme_person,
     image2: Hireme_person2,
-    para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+    para: "Hire me for your software engineering projects as a Developer or a full stack engineeer, i can manage and facilitate your tech team or in training your tech team",
     btnText: "Hire Me",
   },
   Contact: {
@@ -211,3 +214,4 @@ export const content = {
     text: "Binwakili © Copy Right Reserved 2022",
   },
 };
+
